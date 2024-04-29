@@ -30,4 +30,4 @@ Lista de tarefas com marcação de feito ou não:
 - [ ] FInalizar layout externo
       
 ![Foto perfil profissional atualizada](https://github.com/andreasilvestre/Ola-Mundo/assets/104470244/2fe32812-7442-4292-841a-0d5e01b5a01b)
-[Acesse meu perfil do Github](https://andreasilvestre.github.io)
+[Acesse meu perfil do Github](https://github.com/andreasilvestre)
